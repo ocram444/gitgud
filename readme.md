@@ -5,4 +5,4 @@ Das Hier ist mein Persöhnlicher Blog, ziel des branches ist es das Projekt so k
 wenn du bis hierhin gelesen hast lass doch einen Like da und wer das liest stinkt ;)
 😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊
 
-![ Alt text](beer_cat.gif) / ! [](beer_cat.gif)
+![ Alt text](beer_cat.gif) [](beer_cat.gif)
