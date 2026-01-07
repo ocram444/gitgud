@@ -1,0 +1,1 @@
+print("marco ist ein kleiner Wicht!")
