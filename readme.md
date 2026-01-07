@@ -1,6 +1,5 @@
 <<<<<<< HEAD
-Hallo, was passiert wenn wir beide changes machen? WWhaaattt
-=======
+Hallo, was passiert wenn wir beide changes machen? WWhaaattt=======
 Hallo
 
 this readme sucks!
